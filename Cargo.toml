@@ -1,0 +1,7 @@
+[package]
+name = "tennis_api"
+version = "0.1.0"
+authors = ["Tijmen34 <23655598+Tijmen34@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
