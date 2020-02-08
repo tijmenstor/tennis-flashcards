@@ -1,0 +1,20 @@
+[
+    {
+        "question_type": "multiple-choice",
+        "question" : "Who won the US Open 2009?",
+        "choices" : [
+            "Roger Federer", "Novak Djokovic", "Andy Roddick", "Juan Martin Del Potro"
+        ],
+        "answer": "Juan Martin Del Potro"
+    },
+    {
+        "question_type": "short-answer",
+        "question" : "How many Grand Slams has Federer won?",
+        "answer" : 20
+    },
+    {
+        "question_type": "true-or-false",
+        "question" : "Andy Roddick has won the Australian Open once.",
+        "answer" : false
+    }
+]
